@@ -1,0 +1,28 @@
+cat > .gitignore <<EOL
+# Python
+*.pyc
+__pycache__/
+db.sqlite3
+*.sqlite3
+*.pyo
+*.pyd
+*.env
+
+# Virtual Environment
+venv/
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Django
+*.log
+*.pot
+*.py[cod]
+*.sqlite3
+*.pyo
+*.coverage
+*.egg-info/
+dist/
+build/
+EOL
