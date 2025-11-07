@@ -1,11 +1,11 @@
-# 📝 Django To-Do API (Demo Project)
+# Python & Django To-Do API (Demo Project)
 
 A simple and beginner-friendly **To-Do API** built using **Django** and **Django REST Framework (DRF)**.  
 This project demonstrates how to create RESTful endpoints for managing to-do tasks — perfect for learning API development with Django.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Create, Read, Update, and Delete (CRUD) To-Do tasks  
 - Built with Django REST Framework  
@@ -15,7 +15,7 @@ This project demonstrates how to create RESTful endpoints for managing to-do tas
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **Python 3.10+**
 - **Django 5+**
@@ -24,7 +24,7 @@ This project demonstrates how to create RESTful endpoints for managing to-do tas
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1️⃣ Clone the Repository
 ```bash
@@ -58,7 +58,7 @@ pip install django djangorestframework
 
 ---
 
-## 🛠️ Usage
+## Usage
 
 ### Run Database Migrations
 ```bash
@@ -71,11 +71,11 @@ python manage.py runserver
 ```
 
 Server will start at:  
-👉 http://127.0.0.1:8000/
+http://127.0.0.1:8000/
 
 ---
 
-## 📡 API Endpoints (Demo)
+## API Endpoints (Demo)
 
 | Method | Endpoint | Description | Example Response |
 |--------|-----------|-------------|------------------|
@@ -86,7 +86,7 @@ You can extend this project to include actual CRUD operations for tasks (e.g., `
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
 ```
 manage.py
@@ -100,7 +100,7 @@ api/
 
 ---
 
-## 💡 Future Enhancements
+## Future Enhancements
 
 - Add models for To-Do items  
 - Implement full CRUD operations  
@@ -109,8 +109,5 @@ api/
 
 ---
 
-## 🧾 License
 
-This project is licensed under the MIT License — feel free to use and modify it for learning or development.
 
----
